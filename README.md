@@ -2,7 +2,7 @@
 
 ## Task
 
-  Perform a  Principal Component Analysis of the soccer data
+  Perform a  Principal Component Analysis using soccer dataset
 
 ## Objective of PCA
 
